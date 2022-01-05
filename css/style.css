@@ -560,6 +560,14 @@ a.linkedin{
     width: 100%;
   }
   
+  .img-overlay a{
+      color: var(--main-color);
+  }
+
+  .img-overlay a:hover{
+      color: var(--main-color);
+  }
+
   .img-overlay h3 {
     font-weight: 600;
     text-transform: uppercase;
