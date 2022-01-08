@@ -561,11 +561,11 @@ a.linkedin{
   }
   
   .img-overlay a{
-      color: var(--main-color);
+      color: var(--dark-one);
   }
 
   .img-overlay a:hover{
-      color: var(--main-color);
+      color: var(--light-one);
   }
 
   .img-overlay h3 {
